@@ -1,1 +1,1 @@
-# gsquared
+# .js
