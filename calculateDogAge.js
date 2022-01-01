@@ -1,7 +1,3 @@
-Tuesday, December 21, 2021
-11:07 AM
-
-
 // varabile for current age
 let myAge = 33;
 // new variable set to 2 years
